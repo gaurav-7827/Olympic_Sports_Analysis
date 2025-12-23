@@ -1,4 +1,4 @@
-# Olympics Sports Analytics Project
+# Olympic Sports Analytics Project
 
 ## Project Overview
 This project analyzes historical Olympic Games data to uncover trends in participation,
